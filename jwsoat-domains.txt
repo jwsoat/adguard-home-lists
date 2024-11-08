@@ -6,3 +6,9 @@
 @@||jwsoat.nz^$important
 @@||jwsoat.co.nz^$important
 @@||jwsoat.live^$important
+@@||peering.2talk.co.nz^$important
+@@||_3cxtunnel._tcp.jwsoat.3cx.com.au^$important
+@@||jwsoat.live^$important
+@@||jwsoat.live^$important
+@@||jwsoat.live^$important
+
