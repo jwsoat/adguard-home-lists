@@ -10,4 +10,5 @@
 @@||_3cxtunnel._tcp.jwsoat.3cx.com.au^$important
 @@||jwsoat.3cx.com.au^$important
 @@||jwsoat.3cx.co.nz^$important
+@@||sip.2talk.co.nz^$important
 
